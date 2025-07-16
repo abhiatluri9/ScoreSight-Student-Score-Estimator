@@ -1,0 +1,22 @@
+{
+  "dataset_path": "student_scores.csv",
+  "output_path": "predicted_scores.csv",
+  "model_path": "scoresight_model.pkl",
+  "input_features": [
+    "Study_Math",
+    "Study_Science",
+    "Study_English",
+    "Study_Social",
+    "Attendance",
+    "Homework_Completion",
+    "Participation"
+  ],
+  "target_features": [
+    "Math",
+    "Science",
+    "English",
+    "social"
+  ],
+  "test_size": 0.25,
+  "random_state": 42
+}
