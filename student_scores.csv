@@ -1,0 +1,13 @@
+Name,Study_Math,Study_Science,Study_English,Study_Social,Attendance,Homework_Completion,Participation,Math,Science,English,social
+Student1,5.0,4.5,4.0,3.5,92,88,85,83,88,84,86
+Student2,4.5,3.5,3.0,2.5,85,80,78,75,80,76,77
+Student3,6.0,5.5,5.0,4.8,96,90,92,90,95,91,93
+Student4,5.5,4.0,3.5,3.2,88,86,83,82,86,80,85
+Student5,3.0,2.5,2.0,2.0,72,65,60,62,68,63,66
+Student6,4.0,3.5,3.0,2.8,80,75,70,70,75,71,73
+Student7,6.5,6.0,5.5,5.0,98,95,93,92,97,93,94
+Student8,5.2,4.8,4.5,4.2,90,88,86,85,89,86,87
+Student9,4.2,3.8,3.5,3.0,84,82,80,78,82,79,80
+Student10,6.0,5.0,5.0,4.5,95,90,91,91,94,90,92
+
+#You can edit the numbers based on your preference.These are few random values I took.
