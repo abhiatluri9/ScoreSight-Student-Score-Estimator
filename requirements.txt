@@ -1,0 +1,7 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+joblib
+#These versions work well with Python 3.10 or newer, but you can change them if your setup is different.
